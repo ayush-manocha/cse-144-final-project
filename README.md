@@ -10,7 +10,7 @@ Kaggle public leaderboard score: **0.818**
 
 ## Model Weights
 
-Download `best.pt` from Google Drive: **[INSERT LINK]**
+Download `best.pt` from Google Drive: https://drive.google.com/file/d/1Eq4mfeRNwVYLfMUGifXY4NiRDxy0fELC/view?usp=sharing
 
 Place it at `MyDrive/ucsc-cse-144-spring-2026-final-project/checkpoints/best.pt`
 
